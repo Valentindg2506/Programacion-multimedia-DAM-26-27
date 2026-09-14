@@ -24,7 +24,7 @@ En este repositorio voy a ir guardando todo lo relacionado con la asignatura:
 ```text
 Programacion-Multimedia/
 │
-├── Apuntes/
+├── Clases/
 │   ├── Tema-1/
 │   ├── Tema-2/
 │   └── ...

@@ -1,66 +1,34 @@
-# 📱 Programación Multimedia
+# Programación Multimedia y Dispositivos Móviles · DAM 26/27
 
-Repositorio con mis **notas, apuntes y ejercicios de clase** de la asignatura **Programación Multimedia y Dispositivos Móviles** de 2º de DAM.
+Apuntes, ejercicios y proyecto de la asignatura **Programación Multimedia y Dispositivos Móviles** de 2.º de Desarrollo de Aplicaciones Multiplataforma (DAM), curso 2026/2027.
 
----
+## De qué trata la asignatura
 
-## 📖 Contenido
+La asignatura cubre dos mundos: el desarrollo de **aplicaciones móviles** y el de **juegos y aplicaciones multimedia**. Se trabaja con **Kotlin** como lenguaje principal, se analizan motores de juego y librerías multimedia, y se estudian las tecnologías y la arquitectura de las aplicaciones para dispositivos móviles.
 
-En este repositorio voy a ir guardando todo lo relacionado con la asignatura:
+## Qué hay en el repositorio
 
-* 📝 Apuntes de clase
-* 💻 Ejercicios y prácticas
-* 📱 Desarrollo de aplicaciones móviles
-* 🎨 Aplicaciones multimedia
-* 🖼️ Gestión de imágenes, audio y vídeo
-* 🔧 Componentes y funcionalidades de dispositivos móviles
-* 📊 Trabajos realizados
-* 📑 Documentación complementaria
+### Clases
 
----
+| Carpeta | Contenido |
+|---|---|
+| `000-Apuntes` | Notas generales de la asignatura. |
+| `001-Análisis de motores de juegos` | Qué es un motor de juego, sus componentes y cómo elegir uno. |
+| `002-Desarrollo de juegos 2D y 3D` | Fundamentos del desarrollo de videojuegos. |
+| `003-Utilización de librerías multimedia integradas` | Imagen, audio y vídeo dentro de una aplicación. |
+| `004-Análisis de tecnologías para aplicaciones en dispositivos móviles` | Plataformas, limitaciones y arquitectura de las apps móviles. |
+| `005-Desarrollo de aplicaciones para dispositivos móviles` | Construcción de aplicaciones móviles. |
+| `ProyectoMultimedia` | Proyecto de la asignatura. |
 
-## 📂 Estructura
+### Ejercicios de Kotlin
 
-```text
-Programacion-Multimedia/
-│
-├── Clases/
-│   ├── Tema-1/
-│   ├── Tema-2/
-│   └── ...
-│
-├── Ejercicios/
-│
-├── Trabajos/
-│
-└── README.md
-```
+Una serie progresiva para aprender el lenguaje desde cero: variables, funciones, `if`, `when`, operadores lógicos, bucles y el manejo de nulos propio de Kotlin (operador Elvis, *safe calls* y *unsafe calls*). Cada ejercicio está en su propia carpeta numerada.
 
-La estructura puede ir cambiando a medida que avance el curso.
+## Para qué sirve
 
----
+Es mi material de estudio de la asignatura y el registro de cómo voy aprendiendo Kotlin y desarrollo móvil a lo largo del curso.
 
-## 🎯 Objetivo
+## Autor
 
-El objetivo de este repositorio es tener todos mis apuntes y ejercicios de **Programación Multimedia y Dispositivos Móviles** organizados en un único lugar y poder consultarlos fácilmente durante el curso.
-
-También sirve como respaldo de todo el trabajo realizado en clase.
-
----
-
-## 🛠️ Herramientas
-
-* Git
-* GitHub
-* Markdown
-* Herramientas de desarrollo móvil
-* Herramientas utilizadas durante la asignatura
-
----
-
-## 👨‍💻 Autor
-
-**Valentín**
-
-Estudiante de **2º DAM**.
-
+**Valentín Antonio De Gennaro** · Estudiante de 2.º de DAM en Valencia
+[valentindg.com](https://valentindg.com) · [Portafolio](https://portafolio.valentindg.com) · [LinkedIn](https://www.linkedin.com/in/valentindg)

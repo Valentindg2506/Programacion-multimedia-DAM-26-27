@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListaCompra</string>
+    <string name="product_name_hint">Nombre del producto</string>
+    <string name="add_button">Añadir</string>
+    <string name="empty_list_message">No hay productos en la lista</string>
+    <plurals name="pending_products_count">
+        <item quantity="one">%d producto pendiente</item>
+        <item quantity="other">%d productos pendientes</item>
+    </plurals>
+    <string name="icon_purchased_description">Comprado</string>
+    <string name="icon_pending_description">Pendiente</string>
+    <string name="icon_delete_description">Eliminar producto</string>
+    <string name="toggle_status_description">Cambiar estado de compra</string>
+    <string name="preview_milk">Leche</string>
+    <string name="preview_bread">Pan</string>
+    <string name="preview_apples">Manzanas</string>
+</resources>
